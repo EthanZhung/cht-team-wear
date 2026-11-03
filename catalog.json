@@ -1,0 +1,92 @@
+{
+  "colors": [
+    {
+      "id": "23",
+      "name": "白色",
+      "hex": "#e5e5e5"
+    },
+    {
+      "id": "06",
+      "name": "水藍",
+      "hex": "#92b8d9"
+    },
+    {
+      "id": "11A",
+      "name": "藏青",
+      "hex": "#212433"
+    },
+    {
+      "id": "13",
+      "name": "深綠",
+      "hex": "#20341b"
+    },
+    {
+      "id": "39",
+      "name": "新-淺紫",
+      "hex": "#d4c9db"
+    }
+  ],
+  "styles": [
+    {
+      "id": "A",
+      "name": "經典大字",
+      "description": "胸前 CHT・素面背部",
+      "dark": "#092d76",
+      "width": 1512,
+      "height": 1040,
+      "previews": {
+        "23": "assets/previews/A-23-native-v2.png?v=d250e0f60e",
+        "06": "assets/previews/A-06-native-v2.png?v=9d4fedba06",
+        "11A": "assets/previews/A-11A-native-v2.png?v=9599ce98d5",
+        "13": "assets/previews/A-13-native-v2.png?v=d2ae7da54f",
+        "39": "assets/previews/A-39-native-v2.png?v=a3163616c6"
+      }
+    },
+    {
+      "id": "B",
+      "name": "海地星空",
+      "description": "左胸 Chunghwa Telecom・背面彩色訊號",
+      "dark": "#151515",
+      "width": 1512,
+      "height": 1040,
+      "previews": {
+        "23": "assets/previews/B-23-native-v2.png?v=13c1511941",
+        "06": "assets/previews/B-06-native-v2.png?v=b284dbf6f3",
+        "11A": "assets/previews/B-11A-native-v2.png?v=796ea04de6",
+        "13": "assets/previews/B-13-native-v2.png?v=9ff03398be",
+        "39": "assets/previews/B-39-native-v2.png?v=94cf4ecfe6"
+      }
+    },
+    {
+      "id": "C",
+      "name": "通路 SI LOGO",
+      "description": "左胸通路 SI LOGO・背面南資通工程處英文字樣",
+      "dark": "#132952",
+      "width": 1512,
+      "height": 1040,
+      "previews": {
+        "23": "assets/previews/C-23-native-v2.png?v=f31f46c912",
+        "06": "assets/previews/C-06-native-v2.png?v=c3737dbb94",
+        "11A": "assets/previews/C-11A-native-v2.png?v=50b2be4c0d",
+        "13": "assets/previews/C-13-native-v2.png?v=bf05ab70f7",
+        "39": "assets/previews/C-39-native-v2.png?v=1a1f30afc3"
+      }
+    },
+    {
+      "id": "D",
+      "name": "海地星空 LOGO",
+      "description": "左胸衛星、地球與海纜・背面南資通工程處英文字樣",
+      "dark": "#132952",
+      "width": 1512,
+      "height": 1040,
+      "previews": {
+        "23": "assets/previews/D-23-native-v2.png?v=6163a4a7db",
+        "06": "assets/previews/D-06-native-v2.png?v=ec128c0e23",
+        "11A": "assets/previews/D-11A-native-v2.png?v=aa897e0c4d",
+        "13": "assets/previews/D-13-native-v2.png?v=b8c81053b8",
+        "39": "assets/previews/D-39-native-v2.png?v=4d183d9183"
+      }
+    }
+  ],
+  "template": "native-five-colors-v2"
+}
