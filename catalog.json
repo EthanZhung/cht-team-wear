@@ -6,87 +6,195 @@
       "hex": "#e5e5e5"
     },
     {
-      "id": "06",
-      "name": "水藍",
-      "hex": "#92b8d9"
-    },
-    {
       "id": "11A",
       "name": "藏青",
       "hex": "#212433"
     },
     {
-      "id": "13",
-      "name": "深綠",
-      "hex": "#20341b"
+      "id": "39",
+      "name": "淺紫",
+      "hex": "#d4c9db"
+    }
+  ],
+  "garments": [
+    {
+      "id": "tshirt",
+      "name": "T-shirt"
     },
     {
-      "id": "39",
-      "name": "新-淺紫",
-      "hex": "#d4c9db"
+      "id": "polo",
+      "name": "POLO 衫"
     }
   ],
   "styles": [
     {
-      "id": "A",
-      "name": "經典大字",
-      "description": "胸前 CHT・素面背部",
-      "dark": "#092d76",
-      "width": 1512,
-      "height": 1040,
+      "id": "B",
+      "label": "A 款",
+      "name": "海地星空",
+      "description": "左胸 Chunghwa Telecom・背面彩色訊號",
       "previews": {
-        "23": "assets/previews/A-23-native-v2.png?v=d250e0f60e",
-        "06": "assets/previews/A-06-native-v2.png?v=9d4fedba06",
-        "11A": "assets/previews/A-11A-native-v2.png?v=9599ce98d5",
-        "13": "assets/previews/A-13-native-v2.png?v=d2ae7da54f",
-        "39": "assets/previews/A-39-native-v2.png?v=a3163616c6"
+        "tshirt": {
+          "23": {
+            "url": "assets/collection/B/tshirt/23.png?v=13c1511941",
+            "width": 1512,
+            "height": 1040
+          },
+          "11A": {
+            "url": "assets/collection/B/tshirt/11A.png?v=796ea04de6",
+            "width": 1512,
+            "height": 1040
+          },
+          "39": {
+            "url": "assets/collection/B/tshirt/39.png?v=94cf4ecfe6",
+            "width": 1512,
+            "height": 1040
+          }
+        },
+        "polo": {
+          "23": {
+            "url": "assets/collection/B/polo/23.png?v=234dfa73f4",
+            "width": 1488,
+            "height": 1057
+          },
+          "11A": {
+            "url": "assets/collection/B/polo/11A.png?v=80031a4c9c",
+            "width": 1488,
+            "height": 1057
+          },
+          "39": {
+            "url": "assets/collection/B/polo/39.png?v=06da712bcc",
+            "width": 1488,
+            "height": 1057
+          }
+        }
       }
     },
     {
-      "id": "B",
-      "name": "海地星空",
-      "description": "左胸 Chunghwa Telecom・背面彩色訊號",
-      "dark": "#151515",
-      "width": 1512,
-      "height": 1040,
+      "id": "B-logo",
+      "label": "B 款",
+      "name": "胸章款",
+      "description": "左胸山海星光胸章・背面彩色訊號",
       "previews": {
-        "23": "assets/previews/B-23-native-v2.png?v=13c1511941",
-        "06": "assets/previews/B-06-native-v2.png?v=b284dbf6f3",
-        "11A": "assets/previews/B-11A-native-v2.png?v=796ea04de6",
-        "13": "assets/previews/B-13-native-v2.png?v=9ff03398be",
-        "39": "assets/previews/B-39-native-v2.png?v=94cf4ecfe6"
+        "tshirt": {
+          "23": {
+            "url": "assets/collection/B-logo/tshirt/23.png?v=9ca502a4b7",
+            "width": 1512,
+            "height": 1040
+          },
+          "11A": {
+            "url": "assets/collection/B-logo/tshirt/11A.png?v=09bda6ec34",
+            "width": 1512,
+            "height": 1040
+          },
+          "39": {
+            "url": "assets/collection/B-logo/tshirt/39.png?v=76c57c2a82",
+            "width": 1512,
+            "height": 1040
+          }
+        },
+        "polo": {
+          "23": {
+            "url": "assets/collection/B-logo/polo/23.png?v=cf43842874",
+            "width": 1488,
+            "height": 1057
+          },
+          "11A": {
+            "url": "assets/collection/B-logo/polo/11A.png?v=5cd62bf555",
+            "width": 1488,
+            "height": 1057
+          },
+          "39": {
+            "url": "assets/collection/B-logo/polo/39.png?v=d9c53c2a07",
+            "width": 1488,
+            "height": 1057
+          }
+        }
       }
     },
     {
       "id": "C",
+      "label": "C 款",
       "name": "通路 SI LOGO",
       "description": "左胸通路 SI LOGO・背面南資通工程處英文字樣",
-      "dark": "#132952",
-      "width": 1512,
-      "height": 1040,
       "previews": {
-        "23": "assets/previews/C-23-native-v2.png?v=f31f46c912",
-        "06": "assets/previews/C-06-native-v2.png?v=c3737dbb94",
-        "11A": "assets/previews/C-11A-native-v2.png?v=50b2be4c0d",
-        "13": "assets/previews/C-13-native-v2.png?v=bf05ab70f7",
-        "39": "assets/previews/C-39-native-v2.png?v=1a1f30afc3"
+        "tshirt": {
+          "23": {
+            "url": "assets/collection/C/tshirt/23.png?v=f31f46c912",
+            "width": 1512,
+            "height": 1040
+          },
+          "11A": {
+            "url": "assets/collection/C/tshirt/11A.png?v=50b2be4c0d",
+            "width": 1512,
+            "height": 1040
+          },
+          "39": {
+            "url": "assets/collection/C/tshirt/39.png?v=1a1f30afc3",
+            "width": 1512,
+            "height": 1040
+          }
+        },
+        "polo": {
+          "23": {
+            "url": "assets/collection/C/polo/23.png?v=9de8ad45a8",
+            "width": 1488,
+            "height": 1057
+          },
+          "11A": {
+            "url": "assets/collection/C/polo/11A.png?v=df2d65017f",
+            "width": 1488,
+            "height": 1057
+          },
+          "39": {
+            "url": "assets/collection/C/polo/39.png?v=2b99c63881",
+            "width": 1488,
+            "height": 1057
+          }
+        }
       }
     },
     {
       "id": "D",
+      "label": "D 款",
       "name": "海地星空 LOGO",
       "description": "左胸衛星、地球與海纜・背面南資通工程處英文字樣",
-      "dark": "#132952",
-      "width": 1512,
-      "height": 1040,
       "previews": {
-        "23": "assets/previews/D-23-native-v2.png?v=6163a4a7db",
-        "06": "assets/previews/D-06-native-v2.png?v=ec128c0e23",
-        "11A": "assets/previews/D-11A-native-v2.png?v=aa897e0c4d",
-        "13": "assets/previews/D-13-native-v2.png?v=b8c81053b8",
-        "39": "assets/previews/D-39-native-v2.png?v=4d183d9183"
+        "tshirt": {
+          "23": {
+            "url": "assets/collection/D/tshirt/23.png?v=6163a4a7db",
+            "width": 1512,
+            "height": 1040
+          },
+          "11A": {
+            "url": "assets/collection/D/tshirt/11A.png?v=aa897e0c4d",
+            "width": 1512,
+            "height": 1040
+          },
+          "39": {
+            "url": "assets/collection/D/tshirt/39.png?v=4d183d9183",
+            "width": 1512,
+            "height": 1040
+          }
+        },
+        "polo": {
+          "23": {
+            "url": "assets/collection/D/polo/23.png?v=2786556d3b",
+            "width": 1488,
+            "height": 1057
+          },
+          "11A": {
+            "url": "assets/collection/D/polo/11A.png?v=26a536e731",
+            "width": 1488,
+            "height": 1057
+          },
+          "39": {
+            "url": "assets/collection/D/polo/39.png?v=6b522403af",
+            "width": 1488,
+            "height": 1057
+          }
+        }
       }
     }
   ],
-  "template": "native-five-colors-v2"
+  "template": "three-colors-two-garments-v3"
 }
