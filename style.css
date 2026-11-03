@@ -5,3 +5,5 @@
 #board{display:block;width:100%;height:auto}#board[hidden]{display:none}.board-wrap{aspect-ratio:1402/964}.zoom-scroll #large{display:block;width:1402px;max-width:none;height:auto}
 
 .board-wrap{aspect-ratio:1512/1040}.zoom-scroll #large{width:1512px}
+
+.colors{grid-template-columns:repeat(3,minmax(0,1fr))}.color{font-size:12px;padding:8px 4px;gap:8px;min-height:66px}.color i{width:32px;height:32px}.style strong{width:52px;font-size:15px}.garments{display:grid;grid-template-columns:1fr 1fr;gap:8px}.garment{border:1px solid #d9e2ee}.garment[aria-pressed=true]{background:#143564;color:white;border-color:#143564}.preview-top h2{overflow-wrap:anywhere}@media(max-width:760px){.styles{grid-template-columns:1fr}.color{font-size:12px}.preview-top{align-items:flex-start}.preview-top h2{font-size:15px}.preview-top>.secondary{font-size:11px;padding:10px}.dialog-bar{gap:10px}#zoom-label{overflow-wrap:anywhere;font-size:12px}}
